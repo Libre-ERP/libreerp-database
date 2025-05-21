@@ -2,6 +2,8 @@
 
 This repository contains the SQL script, ER and relational diagrams, and seed data for the **Libre-ERP** project.
 
+> ⚠️ **Note:** This database is still under active development. Schema changes and new features may occur frequently. It is not yet stable for production use.
+
 ## 🎯 Objective
 
 Provide a centralized version-controlled environment for managing:
